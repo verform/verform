@@ -8,5 +8,7 @@
 - 🤔 I’m looking for help with **Open Source Projects**
 - 💬 Ask me about **AI and Machine Learning.**
 - 📫 How to reach me: [projectsvpn@gmail.com](projectsvpn@gmail.com)
+-    See my projects at https://github.com/verform
 - ⚡ Fun fact: **I do beatboxing in my free time**
 -->
+
